@@ -1,0 +1,14 @@
+<map id="menu" name="menu">
+<area shape="rect" id="node2" href="$jeu_8c.html#a7585429398bb05385d8f882c47c1b0f4" title="jeu" alt="" coords="108,104,147,129"/>
+<area shape="rect" id="node4" href="$io_8c.html#a294587294111bfede1e11bdf876b6d10" title="viderBuffer" alt="" coords="206,5,291,31"/>
+<area shape="rect" id="node3" href="$io_8c.html#a3eeae159378731db7dd0437ba71b8092" title="afficher" alt="" coords="216,55,281,80"/>
+<area shape="rect" id="node5" href="$jeu_8c.html#a416874f3794e1d504505f890057ecc59" title="placer" alt="" coords="220,104,277,129"/>
+<area shape="rect" id="node6" href="$verif_8c.html#aa3b0da9fb24ea3a370bc057ef5e38f74" title="verifVertical" alt="" coords="203,153,294,179"/>
+<area shape="rect" id="node10" href="$verif_8c.html#a9a00d5f53245a036a3eb47db70ea20ac" title="verifHorizontal" alt="" coords="195,203,302,228"/>
+<area shape="rect" id="node13" href="$verif_8c.html#a7d7689854a08d42383c2787bbf44f1d7" title="matchNUL" alt="" coords="206,252,291,277"/>
+<area shape="rect" id="node7" href="$verif_8c.html#a407b0f6d2b087096a1801126e48b16eb" title="droit1" alt="" coords="355,55,410,80"/>
+<area shape="rect" id="node8" href="$verif_8c.html#a41490b2866590dd3c1904c06ac1c2379" title="gauche" alt="" coords="350,104,415,129"/>
+<area shape="rect" id="node9" href="$verif_8c.html#a94a92611c783a9418268e0e01ec1d496" title="droit" alt="" coords="359,153,406,179"/>
+<area shape="rect" id="node11" href="$verif_8c.html#ac6ee74707386ccc5bf977efbd3d1d7b2" title="haut" alt="" coords="359,203,406,228"/>
+<area shape="rect" id="node12" href="$verif_8c.html#a950af5ed6bbff0fca7be1193cd3e4e53" title="bas" alt="" coords="361,252,404,277"/>
+</map>

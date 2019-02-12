@@ -1,0 +1,9 @@
+<map id="jeu.h" name="jeu.h">
+<area shape="rect" id="node2" href="$io_8h.html" title="io.h" alt="" coords="51,79,94,105"/>
+<area shape="rect" id="node4" href="$main_8h.html" title="main.h" alt="" coords="62,226,123,251"/>
+<area shape="rect" id="node6" href="$verif_8h.html" title="verif.h" alt="" coords="138,153,196,178"/>
+<area shape="rect" id="node8" href="$jeu_8c.html" title="jeu.c" alt="" coords="217,79,267,105"/>
+<area shape="rect" id="node3" href="$io_8c.html" title="io.c" alt="" coords="21,153,63,178"/>
+<area shape="rect" id="node5" href="$main_8c.html" title="main.c" alt="" coords="62,299,123,325"/>
+<area shape="rect" id="node7" href="$verif_8c.html" title="verif.c" alt="" coords="147,226,204,251"/>
+</map>
